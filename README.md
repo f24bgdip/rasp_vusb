@@ -185,3 +185,7 @@ License
 ================================
 Apache License V2.0
 (Refer to LICENSE.txt)
+
+Credits
+================================
+This project is a fork of [rasp_vusb](https://github.com/stjeong/rasp_vusb) by [stjeong](https://github.com/stjeong).
